@@ -1,0 +1,37 @@
+span.sky{
+	background: Red;
+}
+.code {
+	font - family: Consolas;
+}
+span#top {
+  background: DodgerBlue;
+}
+div.items a {
+	color: green;
+	font-weight: bold;
+}
+p + p {
+	background: white;
+	font-style: italic;
+	font-weight: bold;
+}
+div > span {
+  background: DodgerBlue;
+}
+span { background: #fff; 
+}
+.apple { color: red }
+.orange { color: orange }
+.small { font-size: 16px }
+.apple.orange {
+  font-style: italic;
+}
+a[title="menu"]{
+	text-decoration: mone;
+	color: #962103;
+	font-size: 22px;
+}
+h1, h2, p{
+	background: yellow;
+}
